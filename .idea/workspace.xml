@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de762f6b-a047-4e51-9a96-0a4aecc952e8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_changes" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Sample_Github.iws" />
@@ -37,11 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sample2" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="sample2" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample2">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.66785717" vertical-offset="0" max-vertical-offset="560">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
               <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_changes" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/new_changes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9392857" vertical-offset="18" max-vertical-offset="646">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -115,6 +124,7 @@
       <list>
         <option value="$PROJECT_DIR$/sample" />
         <option value="$PROJECT_DIR$/sample2" />
+        <option value="$PROJECT_DIR$/new_changes" />
       </list>
     </option>
   </component>
@@ -150,7 +160,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,10 +194,11 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane />
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,8 +413,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sample2">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66785717" vertical-offset="0" max-vertical-offset="560">
+        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="476">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="748">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_changes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9392857" vertical-offset="18" max-vertical-offset="646">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
